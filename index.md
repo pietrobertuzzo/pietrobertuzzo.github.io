@@ -72,3 +72,22 @@ The project is still in it's planning stage, and all files will be uploaded to m
 As a student researcher unde the PIBIC program, I studied the applicability of Silicon Carbide MOSFETs in power electronics. More so, the efficiency gains using this novel material as the switch in switching regulators, and all the design considerations necessary to deal with the increased speeds. The research report can be read in full at <a href="https://github.com/pietrobertuzzo/pietrobertuzzo.github.io/blob/main/documents/RelatorioICT_Pietro.pdf" target="_blank">PDF.</a>.
 As for PIBIC rules, the report is in portuguese, but if interested please contact me, I'd be happy to translate it.
 There's also a short (~6 minutes) video presentation about the research for a university student research congress: [Link](https://www.youtube.com/watch?v=gVqps94csn8).
+
+# Skillset
+
+My skills are, but not limited to:
+- Power electronics
+- Digital electronics
+- Analog electronics
+- Embedded systems
+- Systems engineering
+
+Tools and technologies:
+ - C, C++, Embedded C
+ - Python
+ - ASM
+ - MATLAB
+ - RTOS
+ - Altium Designer
+ - KiCad
+ - Gnu/Linux
