@@ -1,6 +1,10 @@
-<title>{{ site.title | escape }}</title>
-# Welcome to my page
-Electical engineering major, Federal University of São Carlos.
+
+# About me
+I'm a Electical engineering major at Federal University of São Carlos.
+Ever since I was a child, I've been fascinated by science and technology, specially electronics and computers. I actually started with electronics way before university, building simple circuits ever since I was around 8, through my father, influence (and parts!).
+At around 11, I had my first introduction to robotics and microcontrollers, when I got a Parallax Boe-Bot kit for christmas. It was a simple robot, with two continuous servos for powertrain and a PIC16 running a BASIC interpreter. Seems rudimentary, but back then the embedded field wasn't as beginner and hobby friendly as it is today.
+Later, I started playing with more advanced circuitry, implementing contact and ultrasound sensors in my robot and sound synthesizers so it could play some tunes and, of course, blinking LEDs.
+Later, as a teenager, I discovered Arduino, and began to dabble with C programming language. At the same time, I took an interest in higher level languages, like Lua, to implement games and other programming projects.
 
 # Education
 Bachelor of science in electrical engineering.
@@ -53,3 +57,8 @@ Despite the global pandemic, we were able to assemble a prototype board, which l
 ### 2020
 Being interested in automotive tecnology and formula racing, I joined the team in the second half of 2019. As of 2020, I was a member of the Electrical team, responsible for all the protection circuits for FSAE rule compliance and telemetry systems. The main focus of development was a fail-safe approach to systems engineering, with the driver's safety in mind and integration with the mechanical systems.
 Although our first car is yet to be constructed, our goal during the pandemic was to finish the project so that as soon as we'd be able to return to our shop, at the UFSCar campus, the fabrication would begin.
+
+# Research
+As a student researcher unde the PIBIC program, I studied the applicability of Silicon Carbide MOSFETs in power electronics. More so, the efficiency gains using this novel material as the switch in switching regulators, and all the design considerations necessary to deal with the increased speeds. The research report can be read in full at <a href="username.github.io/documents/RelatorioICT_Pietro" target="_blank">PDF.</a>.
+As for PIBIC rules, the report is in portuguese, but if interested please contact me, I'd be happy to translate it.
+There's also a short (~6 minutes) video presentation about the research for a university student research congress: [Link](https://www.youtube.com/watch?v=gVqps94csn8).
