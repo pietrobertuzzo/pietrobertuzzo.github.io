@@ -8,7 +8,9 @@ Federal University of São Carlos, Brazil.
 2017-2021
 
 # Work Experience
-Electronics intern, [https://www.linkedin.com/company/pi-tecnologia/](Pi Tecnologia).
+
+## Pi Tecnologia
+Electronics intern, [Pi Tecnologia](https://www.linkedin.com/company/pi-tecnologia/).
 May 2020, Sep 2020.
 Developed activities such as, but not limited to:
 - Design of a Printed Circuit Boards in Altium Designer for production.
@@ -19,6 +21,7 @@ Developed activities such as, but not limited to:
 - Jira tracking and agile development.
 
 # Projects
+
 ## Electronics Lead, Red Dragons Robot Soccer
 [Red Dragons Robot Soccer](https://www.linkedin.com/company/red-dragons-ufscar/) is a student organization competing in the IEEE Very Small Size Soccer I have been involved since 2018, and have been the electronics lead since 2020, being responsable for the development of the robot's electronics systems, including hardware design and firmware.
 For the VSSS category,  each team has either 3 or 5 autonomous 10x10cm robots with different roles, with the objective of pushing the ball to the opposite goal. Altough it seems simple, computer vision systems and control algorithms must be implemented so that the robots know where they are in relation to the field, where the ball is and what actions must be taken to sucessfully socre a goal, without violating the rules.
@@ -28,7 +31,7 @@ I joined the team in 2018, at which point homemade, heat transfer PCBs were stil
 
 ![2018 PCB](images/PCB2018.jpg){:height="50%" width="50%"}
 
-## 2019
+### 2019
 Early in 2019, we participated in the IRONCUP robotics competition, VSSS category, in Santa Rita do Sapucaí, MG, Brazil, a regional event.
 Going forward, it was decided the board had to have a higher level o manufacturing quality. The next step was to upgrade the design and contact an overseas manufacturer. The resulting PCB proved to be more reliable, easier to assemble and more appealing to the eye.
 
@@ -38,15 +41,15 @@ Later that year, I had the privilege to participate in the 2019 Latin American R
 
 ![The team at LARC 2019](images/LARC2019.jpeg){:height="70%" width="70%"}
 
-## 2020
+### 2020
 After being the team's electronics representative during LARC 2019, I decided it was time I took a higher role in the project, so I started 2020 as the project's electronics lead, with the intent to revamp it. It was decided that the next step forward was to restart it, choosing a modern microcontroller and SMD components. At the time, I was also working as an intern at Pi Tecnologia, where I'd routinely work with small footprint SMD componentes, so it was only natural I tried to introduce some of that tecnology to the team.
 Despite the global pandemic, we were able to assemble a prototype board, which later was implemented in a prototype robot.
 
 ![2020 PCB on a prototype robot](images/2020.jpeg){:height="50%" width="50%"}
 
-# Dinamo E-Racing
+## Dinamo E-Racing
 [Dinamo E-Racing](https://www.linkedin.com/company/formulaerouteufscar/) is a student organization focused on participating in the FSAE Electrical Vehicle competition.
 
-## 2020
+### 2020
 Being interested in automotive tecnology and formula racing, I joined the team in the second half of 2019. As of 2020, I was a member of the Electrical team, responsible for all the protection circuits for FSAE rule compliance and telemetry systems. The main focus of development was a fail-safe approach to systems engineering, with the driver's safety in mind and integration with the mechanical systems.
 Although our first car is yet to be constructed, our goal during the pandemic was to finish the project so that as soon as we'd be able to return to our shop, at the UFSCar campus, the fabrication would begin.
