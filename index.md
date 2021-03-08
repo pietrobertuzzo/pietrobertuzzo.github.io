@@ -6,6 +6,10 @@ At around 11, I had my first introduction to robotics and microcontrollers, when
 Later, I started playing with more advanced circuitry, implementing contact and ultrasound sensors in my robot and sound synthesizers so it could play some tunes and, of course, blinking LEDs.
 Later, as a teenager, I discovered Arduino, and began to dabble with C programming language. At the same time, I took an interest in higher level languages, like Lua, to implement games and other programming projects.
 
+# Contact info
+
+Email: pietrobertuzzo@gmail.com
+
 # Education
 Bachelor of science in electrical engineering.
 Federal University of São Carlos, Brazil.
