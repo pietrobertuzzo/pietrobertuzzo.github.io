@@ -1,3 +1,4 @@
+<title>{{ site.title | escape }}</title>
 # Welcome to my page
 Electical engineering major, Federal University of São Carlos.
 
@@ -15,6 +16,7 @@ Developed activities such as, but not limited to:
 - High speed comunication debugging, including SPI, I2C and LVDS.
 - Systematic testing for product activation, including firmware and FPGA bitstream loading.
 - Embedded Linux developtment.
+- Jira tracking and agile development.
 
 # Projects
 ## Electronics Lead, Red Dragons Robot Soccer
@@ -30,11 +32,11 @@ I joined the team in 2018, at which point homemade, heat transfer PCBs were stil
 Early in 2019, we participated in the IRONCUP robotics competition, VSSS category, in Santa Rita do Sapucaí, MG, Brazil, a regional event.
 Going forward, it was decided the board had to have a higher level o manufacturing quality. The next step was to upgrade the design and contact an overseas manufacturer. The resulting PCB proved to be more reliable, easier to assemble and more appealing to the eye.
 
-![2019 Robot](images/2019.jpeg){:height="50%" width="50%"}
+![2019 Robot](images/2019.jpeg){:height="70%" width="70%"}
 
 Later that year, I had the privilege to participate in the 2019 Latin American Robot Competition - LARC, VSSS category, in Rio Grande, RS, Brazil. Altough we had some problems with motor reliability, it was a fantastic experience.
 
-![The team at LARC 2019](images/LARC2019.jpeg){:height="50%" width="50%"}
+![The team at LARC 2019](images/LARC2019.jpeg){:height="70%" width="70%"}
 
 ## 2020
 After being the team's electronics representative during LARC 2019, I decided it was time I took a higher role in the project, so I started 2020 as the project's electronics lead, with the intent to revamp it. It was decided that the next step forward was to restart it, choosing a modern microcontroller and SMD components. At the time, I was also working as an intern at Pi Tecnologia, where I'd routinely work with small footprint SMD componentes, so it was only natural I tried to introduce some of that tecnology to the team.
