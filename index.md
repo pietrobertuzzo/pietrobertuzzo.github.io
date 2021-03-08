@@ -23,4 +23,7 @@ For the VSSS category,  each team has either 3 or 5 autonomous 10x10cm robots wi
 
 ### 2018
 I joined the team in 2018, at which point homemade, heat transfer PCBs were still being used. That was only possible because of the low complexity of the electronics systems, that included a PIC18 microncotroller, a XBEE serial radio, motor driver and voltage regulators. To improve the boards' complexity, stacked homemade PCBs proved unreliable, so we had to think about either upgrading our manufactoring techniques, or remaining with low complexity hardware.
-![2018 PCB](images/PCB2018.jpg)
+![2018 PCB](images/PCB2018.jpg =300x)
+
+## 2019
+Going forward, it was decided the board had to have a higher level o manufacturing quality. The next step was to upgrade the design and contact an overseas manufacturer. The resulting PCB proved to be more reliable, easier to assemble and more appealing to the eye.
