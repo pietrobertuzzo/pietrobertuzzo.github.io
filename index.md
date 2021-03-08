@@ -1,7 +1,7 @@
 
 # About me
 I'm a Electical engineering major at Federal University of São Carlos.
-Ever since I was a child, I've been fascinated by science and technology, specially electronics and computers. I actually started with electronics way before university, building simple circuits ever since I was around 8, through my father, influence (and parts!).
+Ever since I was a child, I've been fascinated by science and technology, specially electronics and computers. I actually started with electronics way before university, building simple circuits ever since I was around 8 through my father's influence (and parts!).
 At around 11, I had my first introduction to robotics and microcontrollers, when I got a Parallax Boe-Bot kit for christmas. It was a simple robot, with two continuous servos for powertrain and a PIC16 running a BASIC interpreter. Seems rudimentary, but back then the embedded field wasn't as beginner and hobby friendly as it is today.
 Later, I started playing with more advanced circuitry, implementing contact and ultrasound sensors in my robot and sound synthesizers so it could play some tunes and, of course, blinking LEDs.
 Later, as a teenager, I discovered Arduino, and began to dabble with C programming language. At the same time, I took an interest in higher level languages, like Lua, to implement games and other programming projects.
@@ -61,6 +61,12 @@ Despite the global pandemic, we were able to assemble a prototype board, which l
 ### 2020
 Being interested in automotive tecnology and formula racing, I joined the team in the second half of 2019. As of 2020, I was a member of the Electrical team, responsible for all the protection circuits for FSAE rule compliance and telemetry systems. The main focus of development was a fail-safe approach to systems engineering, with the driver's safety in mind and integration with the mechanical systems.
 Although our first car is yet to be constructed, our goal during the pandemic was to finish the project so that as soon as we'd be able to return to our shop, at the UFSCar campus, the fabrication would begin.
+
+# Graduation project
+
+For my final year graduation project, I'm designing an open-source Power Electronics learning module, designed to be used, primarly, in my school's labs. More specifically a 6 IGBT full bridge that can be easily used by students and professors to assemble prototype switching power supplies, inverters and other high-power load switch applications. 
+The module will take TTL level input signals to control the bridge, so that the student needn't worry about gate driving circuitry and bootstrapping. It will also have protections in place as a safeguard, to ensure student safety when working with high voltage inverters, for example.
+The project is still in it's planning stage, and all files will be uploaded to my [Github account](https://github.com/pietrobertuzzo), under OSHW [Creative Commons - Attribution 3.0](http://creativecommons.org/licenses/by/3.0/) license
 
 # Research
 As a student researcher unde the PIBIC program, I studied the applicability of Silicon Carbide MOSFETs in power electronics. More so, the efficiency gains using this novel material as the switch in switching regulators, and all the design considerations necessary to deal with the increased speeds. The research report can be read in full at <a href="https://github.com/pietrobertuzzo/pietrobertuzzo.github.io/blob/main/documents/RelatorioICT_Pietro.pdf" target="_blank">PDF.</a>.
