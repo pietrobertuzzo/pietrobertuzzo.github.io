@@ -81,6 +81,7 @@ My skills are, but not limited to:
 - Analog electronics
 - Embedded systems
 - Systems engineering
+- Board design and fabrication outputs
 
 Tools and technologies:
  - C, C++, Embedded C
