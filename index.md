@@ -43,3 +43,10 @@ After being the team's electronics representative during LARC 2019, I decided it
 Despite the global pandemic, we were able to assemble a prototype board, which later was implemented in a prototype robot.
 
 ![2020 PCB on a prototype robot](images/2020.jpeg){:height="50%" width="50%"}
+
+# Dinamo E-Racing
+[Dinamo E-Racing](https://www.linkedin.com/company/formulaerouteufscar/) is a student organization focused on participating in the FSAE Electrical Vehicle competition.
+
+## 2020
+Being interested in automotive tecnology and formula racing, I joined the team in the second half of 2019. As of 2020, I was a member of the Electrical team, responsible for all the protection circuits for FSAE rule compliance and telemetry systems. The main focus of development was a fail-safe approach to systems engineering, with the driver's safety in mind and integration with the mechanical systems.
+Although our first car is yet to be constructed, our goal during the pandemic was to finish the project so that as soon as we'd be able to return to our shop, at the UFSCar campus, the fabrication would begin.
